@@ -8,6 +8,6 @@ theme = "hugo-book"
   
   
 [params]
-  BookTheme = 'dark'
+  BookTheme = 'auto'
   BookToC = true
   
