@@ -3,11 +3,4 @@ languageCode = 'en-us'
 title = 'Computer Networking'
 theme = "hugo-book"
 
-[markup.tableOfContents]
-  startLevel = 0
-  
-  
-[params]
-  BookTheme = 'auto'
-  BookToC = true
-  
+
