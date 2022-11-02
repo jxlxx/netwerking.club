@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313'
+baseURL = 'https://jxlxx.github.io/netwerking.club'
 languageCode = 'en-us'
 title = 'Computer Networking'
 theme = "hugo-book"
