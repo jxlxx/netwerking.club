@@ -1,4 +1,13 @@
-baseURL = 'https://jxlxx.github.io/netwerking.club'
+baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
-title = 'Notes On Networking'
+title = 'Computer Networking'
 theme = "hugo-book"
+
+[markup.tableOfContents]
+  startLevel = 0
+  
+  
+[params]
+  BookTheme = 'dark'
+  BookToC = true
+  
