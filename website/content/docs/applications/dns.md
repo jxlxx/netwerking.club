@@ -1,9 +1,9 @@
 ---
 
-title: "todo"
+title: "DNS"
 weight: 1
 
 ---
 
 
-# Title
+# DNS
